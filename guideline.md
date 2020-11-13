@@ -1,5 +1,3 @@
-## G-Conv Installing Guidelines
-
 ### Overview Installing
 
     • Cuda 10.0.130_410.48
